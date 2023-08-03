@@ -1,0 +1,2 @@
+LD_PRELOAD=libgomp.so.1 python3 testingcamlaunch.py 
+
